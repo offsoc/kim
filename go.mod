@@ -31,7 +31,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e // indirect
 	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d // indirect
-	golang.org/x/sys v0.0.0-20211020174200-9d6173849985 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/grpc v1.33.2
 	google.golang.org/protobuf v1.26.0-rc.1
 	gorm.io/driver/mysql v1.1.1
